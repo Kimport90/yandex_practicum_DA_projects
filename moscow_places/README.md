@@ -24,4 +24,4 @@
 
 ## Используемые библиотеки
 
-*Python, Pandas, Seaborn, Plotly, Folium*
+*Pandas, Seaborn, Plotly, Folium*
