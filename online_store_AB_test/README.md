@@ -29,4 +29,4 @@
 
 ## Используемые библиотеки
 
-*Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез*
+*Pandas, Matplotlib, SciPy*
