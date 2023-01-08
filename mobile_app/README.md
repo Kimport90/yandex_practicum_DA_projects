@@ -14,4 +14,4 @@
 
 ## Используемые библиотеки
 
-*A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных*
+*Pandas, Matplotlib, Seaborn, Plotly, SciPy*
